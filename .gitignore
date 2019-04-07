@@ -1,0 +1,5 @@
+*.jl.cov
+*.jl.mem
+*.tern-port
+test/train-labels-idx1-ubyte
+test/train-images-idx3-ubyte
